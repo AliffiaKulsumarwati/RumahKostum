@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.exe
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.deps.json
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.dll
+C:\Users\LENOVO\source\repos\RKostum\RKostum\bin\Debug\netcoreapp3.1\RKostum.pdb
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.dll
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.pdb
+C:\Users\LENOVO\source\repos\RKostum\RKostum\obj\Debug\netcoreapp3.1\RKostum.genruntimeconfig.cache
